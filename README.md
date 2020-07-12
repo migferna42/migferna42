@@ -5,4 +5,4 @@
 - 🏠 Living in Madrid
 - 🖼 Frontend Developer (HTML, CSS, VanillaJS, jQuery, AngularJS, ReactJS)
 - 🖥 Backend Developer (Shell, Ruby, NodeJS, Go)
-- 👨🏻‍DevOps (Docker, Kubernetes)
+- 👨🏻‍DevOps (Docker, Kubernetes, GCloud)
