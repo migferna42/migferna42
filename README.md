@@ -7,4 +7,4 @@
 - 🖥 Backend Developer (Shell, Ruby, NodeJS, Go)
 - 👨🏻‍DevOps (Docker, Kubernetes, GCloud, Heroku)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migferna42)](https://github.com/migferna42/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migferna42&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/migferna42/github-readme-stats)
