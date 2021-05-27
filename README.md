@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Miguel Angel 🤪
 
-- 🛠 I worked at [Solertia](https://solertia-hospitality.com) & [Quantion](https://www.quantion.es)
-- 👨🏻‍💻 I currently work at CDCO in Telefónica.
+- 🛠 I worked at CDCO in [Telefónica](https://www.telefonica.com/es/home) & [Quantion](https://www.quantion.es)
+- 👨🏻‍💻 I currently work at [42 Urduliz](https://www.42urduliz.com).
 - 💪 I'm studying in [42Madrid](https://www.42madrid.com)
-- 🏠 Living in Madrid
+- 🏠 Living in Bilbao
 - 🖼 Frontend Developer (HTML, CSS, VanillaJS, jQuery, AngularJS, ReactJS)
 - 🖥 Backend Developer (Shell, Ruby, NodeJS, Go)
 - 👨🏻‍DevOps (Docker, Kubernetes, GCloud, Heroku)
