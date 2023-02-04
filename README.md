@@ -2,7 +2,7 @@
 
 - 🛠 I worked at CDCO in [Telefónica](https://www.telefonica.com/es/home) & [Quantion](https://www.quantion.es)
 - 👨🏻‍💻 I currently work at [42 Urduliz](https://www.42urduliz.com).
-- 💪 I'm studying in [42Madrid](https://www.42madrid.com)
+- 💪 I'm studying in [42 Urduliz](https://www.42urduliz.com)
 - 🏠 Living in Urduliz
 - 🖼 Frontend Developer (HTML, CSS, VanillaJS, jQuery, AngularJS, ReactJS)
 - 🖥 Backend Developer (Bash, Ruby, NodeJS, Go)
